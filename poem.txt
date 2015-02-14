@@ -1,4 +1,4 @@
-roses are red
-violets are blue
-all my base
-are belong to you
+Roses are red,
+Violets are blue,
+All of my base
+Are belong to you.
